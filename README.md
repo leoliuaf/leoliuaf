@@ -28,12 +28,10 @@ Here are some ideas to get you started:
 🧩 **[Customer Segmentation with K-Means](https://github.com/leoliuaf/Customer-Segmentation-Analysis)**  
 > Clustered customers based on Recency, Frequency, and Monetary (RFM) metrics using K-means clustering algorithm. <br>
 > Derived actionable insights to support targeted marketing and improve customer retention.
-<br><br>
 
 ⚙️ **[Predictive Maintenance Model](https://github.com/leoliuaf/Predictive-Maintenance-Project)**  
 > Built and optimized a Random Forest model to predict machine failures using sensor data. <br>
 > Applied SHAP analysis to interpret feature importance and guide maintenance strategies.
-<br><br>
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/leo-liu-95663a202) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leoliuk@outlook.com) 
